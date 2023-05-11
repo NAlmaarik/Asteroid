@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رادار الكويكب</string>
+
+    <string name="next_week_asteroids">عرض كويكبات الأسبوع</string>
+    <string name="today_asteroids">عرض كويكبات اليوم</string>
+    <string name="saved_asteroids">عرض الكويكبات المحفوظة</string>
+
+    <string name="astronomica_unit_explanation">الوحدة الفلكية (au) هي وحدة طول ، تقريبا المسافة من الأرض إلى الشمس وتساوي حوالي 150 مليون كيلومتر (93 مليون ميل)</string>
+    <string name="close_approach_data_title">تاريخ إغلاق الاقتراب</string>
+    <string name="absolute_magnitude_title">الحجم المطلق</string>
+    <string name="estimated_diameter_title">القطر المقدر</string>
+    <string name="relative_velocity_title">السرعة النسبية</string>
+    <string name="distance_from_earth_title">المسافة من الأرض</string>
+
+</resources>
